@@ -1,5 +1,5 @@
 
-##  ⦁═𝗤𝗨𝗘𝗘𝗡 👸 𝗔𝗟𝗘𝗫𝗔═⦁
+##  Ryo bot
 
 
     Queen alexa is the whatsapp bot project.
